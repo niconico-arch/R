@@ -1,0 +1,39 @@
+---
+title: "Homework#0: Self Introduction"
+author: "LI HUIWEN"
+date: "9/19/2020"
+output: 
+  html_document:
+    toc: true
+    top_depth: 2
+    toc_float: true
+---
+
+##### ![](/Users/huiwenli/Downloads/linkedin_icon.png){width=3%} [Connect with me](https://www.linkedin.com/in/eileen-li-09b678b4/)  
+***
+## Who am I?  
+Hello World! My name is LI HUIWEN. I'm a full-time master student majoring in Financial Mathematics in HKUST. 
+
+## Where am I from?  
+__Wuyuan__, is a small town in the northeast of Jiangxi province in China, boardering two other provinces of Zhejiang and Anhui. It is famous for the stunning scenaries and well-protected historical architecture. Houses in the town are mostly in Hui style architecture with black tiles and white walls. It is quiet and beautiful, surrounded by mountains and river. Growing up in the small town, I enjoy connecting with nature and truely appreciate all resources we are granted. 
+
+![](/Users/huiwenli/Desktop/Screenshot 2020-09-19 at 10.38.10 AM.png)  
+Source: https://upload.wikimedia.org/wikipedia/commons/5/52/Wuyuan_Huangcun_Jingyitang_20120401-40.jpg
+
+## What have I done?  
+#### __#29__: Lived for 29 years  
+Happily enjoyed life since born for 29 years.  
+
+#### __#12__: Stayed in Hong Kong for 12 years  
+I came to Hong Kong in 2008 as a colleage student in City University of Hong Kong, majoring in Information Engineering; and stayed in ever since.  
+
+#### __#8__: Worked for 8 years  
+I was lucky enough to join J.P. Morgan as a technology analyst after graduating from colleage. After spending 6 years there, I stepped into the digital currency world joining a Japanese corporation - SBI Holdings and stayed in the field until now.  
+
+## What do I like?
+I love watching TV dramas, movies and reading books. Here are some of my recent favorites.  
+
+* __My Favorites__  
+  + TV Drama: [The Capture](https://www.imdb.com/title/tt8201186/)  
+  + Movie: [Knives Out](https://www.imdb.com/title/tt8946378/?ref_=nv_sr_srsg_0)  
+  + Book: [When Genius Failed: The Rise and Fall of Long-Term Capital Management](https://www.amazon.com/When-Genius-Failed-Long-Term-Management/dp/0375758259) (Still Reading...)  
